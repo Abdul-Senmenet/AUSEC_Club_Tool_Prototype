@@ -7,6 +7,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import time
 from contextlib import contextmanager
+import json 
 
 # Page configuration
 st.set_page_config(
@@ -29,6 +30,10 @@ def get_cached_gsheet_client():
         "https://www.googleapis.com/auth/drive.file",
         "https://www.googleapis.com/auth/drive"
     ]
+    # If running on Streamlit Cloud, write credentials from st.secrets
+    if "gcp_service_account" in st.secrets:
+        with open("credentials.json", "w") as f:
+            json.dump(dict(st.secrets["gcp_service_account"]), f)
     creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
     return gspread.authorize(creds)
 
