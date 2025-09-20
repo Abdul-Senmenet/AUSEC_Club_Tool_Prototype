@@ -103,13 +103,14 @@ Access the live application [here](https://ausecclubtoolprototype-ev6g8gmpzf89b6
 ---
 
 ## Screenshots
+
+**Main Page**
 <img width="2159" height="1238" alt="image" src="https://github.com/user-attachments/assets/6e5d06ce-91b3-4ef2-930e-0c70ac920b93" />
+**Developer Dashboard**
+<img width="2159" height="1236" alt="image" src="https://github.com/user-attachments/assets/98e31a7a-9982-4fad-a520-5302cfaac0af" />
+**Member Dashboard**
+<img width="2159" height="1239" alt="image" src="https://github.com/user-attachments/assets/f510af12-7970-4358-aa41-7c08afc04731" />
 
-![Developer Dashboard](<img width="2159" height="1236" alt="image" src="https://github.com/user-attachments/assets/98e31a7a-9982-4fad-a520-5302cfaac0af" />
-)  
-
-![Member Dashboard](<img width="2159" height="1239" alt="image" src="https://github.com/user-attachments/assets/f510af12-7970-4358-aa41-7c08afc04731" />
-)  
 
 ![Database View 1 (in GSheets)](<img width="2159" height="1144" alt="image" src="https://github.com/user-attachments/assets/e522a1a7-8b14-440b-bc69-6e94ac58d323" />)
 
