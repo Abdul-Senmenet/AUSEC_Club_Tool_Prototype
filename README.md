@@ -110,15 +110,10 @@ Access the live application [here](https://ausecclubtoolprototype-ev6g8gmpzf89b6
 <img width="2159" height="1236" alt="image" src="https://github.com/user-attachments/assets/98e31a7a-9982-4fad-a520-5302cfaac0af" />
 **Member Dashboard**
 <img width="2159" height="1239" alt="image" src="https://github.com/user-attachments/assets/f510af12-7970-4358-aa41-7c08afc04731" />
-
-
-![Database View 1 (in GSheets)](<img width="2159" height="1144" alt="image" src="https://github.com/user-attachments/assets/e522a1a7-8b14-440b-bc69-6e94ac58d323" />)
-
-![Database View 2 (in Gsheets)](<img width="2159" height="1155" alt="image" src="https://github.com/user-attachments/assets/f8bae20f-7c39-4b27-b238-0fae3bd202e8" />
-)
-
-
-*(Add your own screenshots here for better clarity)*
+**Database View 1 (in GSheets)**
+<img width="2159" height="1144" alt="image" src="https://github.com/user-attachments/assets/e522a1a7-8b14-440b-bc69-6e94ac58d323" />
+**Database View 2 (in Gsheets)**
+<img width="2159" height="1155" alt="image" src="https://github.com/user-attachments/assets/f8bae20f-7c39-4b27-b238-0fae3bd202e8" />
 
 ---
 
@@ -133,6 +128,3 @@ Access the live application [here](https://ausecclubtoolprototype-ev6g8gmpzf89b6
 Watch the demo [here](https://youtu.be/Pyn0iIteJAg).
 
 ---
-
-## Contact
-For any queries or feedback, contact the developer: **[Your Name / Email]**
