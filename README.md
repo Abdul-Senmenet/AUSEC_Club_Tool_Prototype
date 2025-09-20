@@ -1,7 +1,5 @@
 # AUSEC Club Internal Management Tool
 
-[Demo Video](https://youtu.be/Pyn0iIteJAg)  
-
 ## Overview
 This project is an **internal management tool** designed for the **AUSEC Club** to help manage tasks within the club hierarchy. Each member can assign tasks to their immediate subordinates, track progress, and maintain structured communication.  
 
